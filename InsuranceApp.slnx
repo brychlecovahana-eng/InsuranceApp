@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="InsuranceApp.Console/InsuranceApp.Console.csproj" />
+  <Project Path="InsuranceApp.Data/InsuranceApp.Data.csproj" />
+  <Project Path="InsuranceApp.Services/InsuranceApp.Services.csproj" />
+  <Project Path="InsuranceApp.Web/InsuranceApp.Web.csproj" Id="8dd78e95-9e44-4b38-8ee6-aa44e4682239" />
+</Solution>
